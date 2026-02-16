@@ -5,4 +5,4 @@ Necesito una pagina web que contenga tres recuadros que simulen la bandera de me
 
 Haz que los recuadros sean más grandes, que abarquen casi todo el ancho de la pantalla, además que los recuadros esten bien alineados
 
-Ahora haz que el espacio donde ira mi nombre no sea editable, simplemente pondre mi nombre desde el codigo
+Ahora haz que el espacio donde ira mi nombre no sea editable, simplemente pondre mi nombre desde el codigo.
